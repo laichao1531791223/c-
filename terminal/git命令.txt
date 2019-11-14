@@ -1,0 +1,5 @@
+克隆项目:
+git clone https://github.com/laichao1531791223/c-.git
+
+查看本地代码与github网站上的文件的差异，多一个文件，少一个文件的差异
+git status
